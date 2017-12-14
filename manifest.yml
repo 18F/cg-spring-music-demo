@@ -1,4 +1,5 @@
 ---
+buildpack: java_buildpack
 applications:
 - name: spring-music
   memory: 1G
